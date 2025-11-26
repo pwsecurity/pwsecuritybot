@@ -545,16 +545,9 @@
         "favorites": [],
         "last_notification": null,
         "earnings": {
-            "total_usd": 5.0,
+            "total_usd": 0.0,
             "rate": 100,
-            "history": [
-                {
-                    "id_name": "5",
-                    "amount_usd": 5.0,
-                    "date": "2025-11-26",
-                    "time": "05:33:07"
-                }
-            ],
+            "history": [],
             "payments": []
         },
         "ip_due": {
@@ -572,13 +565,13 @@
                     "action": "set",
                     "amount": 0.0,
                     "date": "2025-11-26",
-                    "time": "05:34:22"
+                    "time": "13:41:32"
                 },
                 {
                     "action": "rate",
                     "amount": 0.0,
                     "date": "2025-11-26",
-                    "time": "05:35:00"
+                    "time": "13:41:39"
                 }
             ]
         }

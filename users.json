@@ -1,0 +1,624 @@
+{
+    "5261072501": {
+        "username": "shomadhan",
+        "status": "approved",
+        "expiry_date": "2027-04-26",
+        "favorites": [],
+        "last_notification": null,
+        "earnings": {
+            "total_usd": 0.0,
+            "rate": 120,
+            "history": [],
+            "payments": []
+        },
+        "ip_due": {
+            "current_due": 1400.0,
+            "due_rate": 1400.0,
+            "history": [
+                {
+                    "action": "initialized",
+                    "amount": 1400.0,
+                    "reason": "System default",
+                    "date": "2025-11-26",
+                    "time": "10:17:20"
+                }
+            ]
+        }
+    },
+    "1954942276": {
+        "username": "ir_fan5",
+        "status": "approved",
+        "expiry_date": "2025-12-15",
+        "favorites": [],
+        "last_notification": "2025-11-14",
+        "earnings": {
+            "total_usd": 84.0,
+            "rate": 70,
+            "history": [
+                {
+                    "id_name": "12$, i4, 12$, i1, a19, i3",
+                    "amount_usd": 84.0,
+                    "date": "2025-11-26",
+                    "time": "08:41:33"
+                }
+            ],
+            "payments": []
+        },
+        "ip_due": {
+            "current_due": 1400.0,
+            "due_rate": 1400.0,
+            "history": [
+                {
+                    "action": "initialized",
+                    "amount": 1400.0,
+                    "reason": "System default",
+                    "date": "2025-11-26",
+                    "time": "10:17:20"
+                }
+            ]
+        }
+    },
+    "8379310570": {
+        "username": "tazwar45",
+        "status": "approved",
+        "expiry_date": "2025-11-28",
+        "favorites": [],
+        "last_notification": "2025-11-26",
+        "earnings": {
+            "total_usd": 15.0,
+            "rate": 60,
+            "history": [
+                {
+                    "id_name": "b3",
+                    "amount_usd": 15.0,
+                    "date": "2025-11-26",
+                    "time": "08:57:40"
+                }
+            ],
+            "payments": []
+        },
+        "ip_due": {
+            "current_due": 1400.0,
+            "due_rate": 1400.0,
+            "history": [
+                {
+                    "action": "initialized",
+                    "amount": 1400.0,
+                    "reason": "System default",
+                    "date": "2025-11-26",
+                    "time": "10:17:20"
+                }
+            ]
+        }
+    },
+    "5892420539": {
+        "username": "Tahmidifaz",
+        "status": "approved",
+        "expiry_date": "2025-12-15",
+        "favorites": [],
+        "last_notification": "2025-11-14",
+        "earnings": {
+            "total_usd": 55.0,
+            "rate": 70,
+            "history": [
+                {
+                    "id_name": "w21, 10$, 10$, 10$, 10$,",
+                    "amount_usd": 55.0,
+                    "date": "2025-11-26",
+                    "time": "08:54:20"
+                }
+            ],
+            "payments": []
+        },
+        "ip_due": {
+            "current_due": 1400.0,
+            "due_rate": 1400.0,
+            "history": [
+                {
+                    "action": "initialized",
+                    "amount": 1400.0,
+                    "reason": "System default",
+                    "date": "2025-11-26",
+                    "time": "10:17:21"
+                }
+            ]
+        }
+    },
+    "7933827387": {
+        "username": "Reyaaaadd",
+        "status": "approved",
+        "expiry_date": "2025-12-15",
+        "favorites": [],
+        "last_notification": "2025-11-13",
+        "earnings": {
+            "total_usd": 33.0,
+            "rate": 70,
+            "history": [
+                {
+                    "id_name": "X7",
+                    "amount_usd": 11.0,
+                    "date": "2025-11-26",
+                    "time": "08:38:31"
+                },
+                {
+                    "id_name": "X9",
+                    "amount_usd": 12.0,
+                    "date": "2025-11-26",
+                    "time": "08:39:09"
+                },
+                {
+                    "id_name": "x6-   Kelley  Broderick",
+                    "amount_usd": 10.0,
+                    "date": "2025-11-26",
+                    "time": "09:25:48"
+                }
+            ],
+            "payments": []
+        },
+        "ip_due": {
+            "current_due": 1400.0,
+            "due_rate": 1400.0,
+            "history": [
+                {
+                    "action": "initialized",
+                    "amount": 1400.0,
+                    "reason": "System default",
+                    "date": "2025-11-26",
+                    "time": "10:17:21"
+                }
+            ]
+        }
+    },
+    "6520820575": {
+        "username": "Ashraful3d",
+        "status": "approved",
+        "expiry_date": "2027-01-16",
+        "favorites": [],
+        "last_notification": null,
+        "proxy_requests": [
+            {
+                "timestamp": "2025-11-25 17:52:58",
+                "panel": "Panel Ip 1"
+            },
+            {
+                "timestamp": "2025-11-25 18:15:20",
+                "panel": "Panel Ip 10"
+            },
+            {
+                "timestamp": "2025-11-25 18:15:30",
+                "panel": "Panel Ip 9"
+            }
+        ],
+        "earnings": {
+            "total_usd": 0.0,
+            "rate": 90,
+            "history": [],
+            "payments": []
+        },
+        "ip_due": {
+            "current_due": 1400.0,
+            "due_rate": 1400.0,
+            "history": [
+                {
+                    "action": "initialized",
+                    "amount": 1400.0,
+                    "reason": "System default",
+                    "date": "2025-11-26",
+                    "time": "10:17:21"
+                }
+            ]
+        }
+    },
+    "7641495307": {
+        "username": "tanvir2820",
+        "status": "approved",
+        "expiry_date": "2025-12-15",
+        "favorites": [],
+        "last_notification": "2025-11-14",
+        "earnings": {
+            "total_usd": 20.0,
+            "rate": 70,
+            "history": [
+                {
+                    "id_name": "10$, 10$",
+                    "amount_usd": 20.0,
+                    "date": "2025-11-26",
+                    "time": "08:53:29"
+                }
+            ],
+            "payments": []
+        },
+        "ip_due": {
+            "current_due": 1400.0,
+            "due_rate": 1400.0,
+            "history": [
+                {
+                    "action": "initialized",
+                    "amount": 1400.0,
+                    "reason": "System default",
+                    "date": "2025-11-26",
+                    "time": "10:17:22"
+                }
+            ]
+        }
+    },
+    "5592032920": {
+        "username": "safayet245",
+        "status": "approved",
+        "expiry_date": "2025-12-03",
+        "favorites": [],
+        "last_notification": null,
+        "earnings": {
+            "total_usd": 0.0,
+            "rate": 70,
+            "history": [],
+            "payments": []
+        },
+        "ip_due": {
+            "current_due": 1400.0,
+            "due_rate": 1400.0,
+            "history": [
+                {
+                    "action": "initialized",
+                    "amount": 1400.0,
+                    "reason": "System default",
+                    "date": "2025-11-26",
+                    "time": "10:17:22"
+                }
+            ]
+        }
+    },
+    "5745290994": {
+        "username": "Nakib_Noob",
+        "status": "approved",
+        "expiry_date": "2025-12-15",
+        "favorites": [],
+        "last_notification": "2025-11-14",
+        "earnings": {
+            "total_usd": 0.0,
+            "rate": 80,
+            "history": [],
+            "payments": []
+        },
+        "ip_due": {
+            "current_due": 1400.0,
+            "due_rate": 1400.0,
+            "history": [
+                {
+                    "action": "initialized",
+                    "amount": 1400.0,
+                    "reason": "System default",
+                    "date": "2025-11-26",
+                    "time": "10:17:22"
+                }
+            ]
+        }
+    },
+    "7198302236": {
+        "username": "Shakil3d",
+        "status": "approved",
+        "expiry_date": "2025-12-15",
+        "favorites": [],
+        "last_notification": "2025-11-14",
+        "earnings": {
+            "total_usd": 136.43,
+            "rate": 70,
+            "history": [
+                {
+                    "id_name": "OLD",
+                    "amount_usd": 36.43,
+                    "date": "2025-11-26",
+                    "time": "08:49:21"
+                },
+                {
+                    "id_name": "e2, e3, e13, 10$, 10$, 10$, 10$, e14",
+                    "amount_usd": 100.0,
+                    "date": "2025-11-26",
+                    "time": "08:52:37"
+                }
+            ],
+            "payments": []
+        },
+        "ip_due": {
+            "current_due": 1400.0,
+            "due_rate": 1400.0,
+            "history": [
+                {
+                    "action": "initialized",
+                    "amount": 1400.0,
+                    "reason": "System default",
+                    "date": "2025-11-26",
+                    "time": "10:17:22"
+                }
+            ]
+        }
+    },
+    "6369632410": {
+        "username": "Hridoy9794",
+        "status": "approved",
+        "expiry_date": "2025-12-15",
+        "favorites": [],
+        "last_notification": "2025-11-14",
+        "earnings": {
+            "total_usd": 30.0,
+            "rate": 70,
+            "history": [
+                {
+                    "id_name": "10$, 10$, 10$",
+                    "amount_usd": 30.0,
+                    "date": "2025-11-26",
+                    "time": "08:56:51"
+                }
+            ],
+            "payments": []
+        },
+        "ip_due": {
+            "current_due": 1400.0,
+            "due_rate": 1400.0,
+            "history": [
+                {
+                    "action": "initialized",
+                    "amount": 1400.0,
+                    "reason": "System default",
+                    "date": "2025-11-26",
+                    "time": "10:17:23"
+                }
+            ]
+        }
+    },
+    "1813810647": {
+        "username": "niksonnur",
+        "status": "approved",
+        "expiry_date": "2025-12-22",
+        "favorites": [],
+        "last_notification": "2025-11-21",
+        "proxy_requests": [
+            {
+                "timestamp": "2025-11-25 23:48:27",
+                "panel": "Panel Ip 4"
+            },
+            {
+                "timestamp": "2025-11-25 23:48:49",
+                "panel": "Panel Ip 5"
+            },
+            {
+                "timestamp": "2025-11-25 23:49:04",
+                "panel": "Panel Ip 6"
+            },
+            {
+                "timestamp": "2025-11-25 23:49:20",
+                "panel": "Panel Ip 10"
+            },
+            {
+                "timestamp": "2025-11-25 23:49:36",
+                "panel": "Panel Ip 2"
+            }
+        ],
+        "earnings": {
+            "total_usd": 45.0,
+            "rate": 60,
+            "history": [
+                {
+                    "id_name": "y8, y6, y6",
+                    "amount_usd": 45.0,
+                    "date": "2025-11-26",
+                    "time": "08:56:06"
+                }
+            ],
+            "payments": []
+        },
+        "ip_due": {
+            "current_due": 1400.0,
+            "due_rate": 1400.0,
+            "history": [
+                {
+                    "action": "initialized",
+                    "amount": 1400.0,
+                    "reason": "System default",
+                    "date": "2025-11-26",
+                    "time": "10:17:23"
+                }
+            ]
+        }
+    },
+    "1598847295": {
+        "username": "Mr_Ta_rek",
+        "status": "approved",
+        "expiry_date": "2025-12-14",
+        "favorites": [],
+        "last_notification": null,
+        "earnings": {
+            "total_usd": 0.0,
+            "rate": 60,
+            "history": [],
+            "payments": []
+        },
+        "ip_due": {
+            "current_due": 1400.0,
+            "due_rate": 1400.0,
+            "history": [
+                {
+                    "action": "initialized",
+                    "amount": 1400.0,
+                    "reason": "System default",
+                    "date": "2025-11-26",
+                    "time": "10:17:23"
+                }
+            ]
+        }
+    },
+    "2058790868": {
+        "username": "tuhin1206",
+        "status": "approved",
+        "expiry_date": "2025-12-22",
+        "favorites": [],
+        "last_notification": "2025-11-21",
+        "earnings": {
+            "total_usd": 105.0,
+            "rate": 60,
+            "history": [
+                {
+                    "id_name": "i8, y3, y4, sh3, i10, y5, y1",
+                    "amount_usd": 105.0,
+                    "date": "2025-11-26",
+                    "time": "08:55:36"
+                }
+            ],
+            "payments": []
+        },
+        "ip_due": {
+            "current_due": 1400.0,
+            "due_rate": 1400.0,
+            "history": [
+                {
+                    "action": "initialized",
+                    "amount": 1400.0,
+                    "reason": "System default",
+                    "date": "2025-11-26",
+                    "time": "10:17:24"
+                }
+            ]
+        }
+    },
+    "5791555416": {
+        "username": "borhan6732",
+        "status": "approved",
+        "expiry_date": "2025-12-18",
+        "favorites": [],
+        "last_notification": null,
+        "earnings": {
+            "total_usd": 0.0,
+            "rate": 70,
+            "history": [],
+            "payments": []
+        },
+        "ip_due": {
+            "current_due": 1400.0,
+            "due_rate": 1400.0,
+            "history": [
+                {
+                    "action": "initialized",
+                    "amount": 1400.0,
+                    "reason": "System default",
+                    "date": "2025-11-26",
+                    "time": "10:17:24"
+                }
+            ]
+        }
+    },
+    "2091950317": {
+        "username": "Alifshiekh",
+        "status": "approved",
+        "expiry_date": "2025-12-24",
+        "favorites": [],
+        "last_notification": null,
+        "earnings": {
+            "total_usd": 0.0,
+            "rate": 70,
+            "history": [],
+            "payments": []
+        },
+        "ip_due": {
+            "current_due": 2800.0,
+            "due_rate": 1400.0,
+            "history": [
+                {
+                    "action": "initialized",
+                    "amount": 1400.0,
+                    "reason": "System default",
+                    "date": "2025-11-26",
+                    "time": "10:17:24"
+                },
+                {
+                    "action": "set",
+                    "amount": 2800.0,
+                    "date": "2025-11-26",
+                    "time": "10:18:14"
+                }
+            ]
+        }
+    },
+    "7552567272": {
+        "username": "pr0shno",
+        "status": "approved",
+        "expiry_date": "2027-05-08",
+        "favorites": [],
+        "last_notification": null,
+        "earnings": {
+            "total_usd": 5.0,
+            "rate": 100,
+            "history": [
+                {
+                    "id_name": "5",
+                    "amount_usd": 5.0,
+                    "date": "2025-11-26",
+                    "time": "05:33:07"
+                }
+            ],
+            "payments": []
+        },
+        "ip_due": {
+            "current_due": 0.0,
+            "due_rate": 0.0,
+            "history": [
+                {
+                    "action": "initialized",
+                    "amount": 1400.0,
+                    "reason": "System default",
+                    "date": "2025-11-26",
+                    "time": "10:17:24"
+                },
+                {
+                    "action": "set",
+                    "amount": 0.0,
+                    "date": "2025-11-26",
+                    "time": "05:34:22"
+                },
+                {
+                    "action": "rate",
+                    "amount": 0.0,
+                    "date": "2025-11-26",
+                    "time": "05:35:00"
+                }
+            ]
+        }
+    },
+    "8518424513": {
+        "username": "Tohidul4746",
+        "status": "approved",
+        "expiry_date": "2025-12-25",
+        "favorites": [],
+        "last_notification": null,
+        "earnings": {
+            "total_usd": 0.0,
+            "rate": 70,
+            "history": [],
+            "payments": []
+        },
+        "ip_due": {
+            "current_due": 400.0,
+            "due_rate": 1000.0,
+            "history": [
+                {
+                    "action": "initialized",
+                    "amount": 1400.0,
+                    "reason": "System default",
+                    "date": "2025-11-26",
+                    "time": "10:17:25"
+                },
+                {
+                    "action": "set",
+                    "amount": 400.0,
+                    "date": "2025-11-26",
+                    "time": "10:17:38"
+                },
+                {
+                    "action": "rate",
+                    "amount": 1000.0,
+                    "date": "2025-11-26",
+                    "time": "10:17:46"
+                }
+            ]
+        }
+    }
+}

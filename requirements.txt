@@ -1,5 +1,6 @@
 # Telegram Bot Framework (used by both gemini.py and h.py)
-python-telegram-bot==21.9
+# Note: [job-queue] extra is required for scheduled jobs
+python-telegram-bot[job-queue]==21.9
 
 # Google Generative AI SDK (for gemini.py)
 google-genai==1.47.0
